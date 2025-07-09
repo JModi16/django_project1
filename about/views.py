@@ -7,4 +7,7 @@ from django.utils.translation import gettext as _
 def index(request):
     return HttpResponse("This would be the about page")
 
+def about_me(request):
+    return HttpResponse("This would be the about me page")
+
 
