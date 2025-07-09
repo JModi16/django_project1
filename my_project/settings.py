@@ -35,7 +35,6 @@ INSTALLED_APPS = [
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
-    
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hello_world',  # Your custom app
